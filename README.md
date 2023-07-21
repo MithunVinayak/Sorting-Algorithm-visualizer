@@ -1,4 +1,6 @@
-# Sorting-Visualizer
+# Sorting-Algorithm-Visualizer
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a3beda70-dcc4-42e1-8eda-8f974797b84d/deploy-status)](https://app.netlify.com/sites/astonishing-cuchufli-3eafbf/deploys)
 
 A JavaScript web application for visualizing various sorting algorithms. Built for use by developers and educators alike. Implemented algorithms include:
 
@@ -13,6 +15,6 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 
 ## How to use
 
-- Navigate to the [website]()
+- Navigate to the [website](https://astonishing-cuchufli-3eafbf.netlify.app/)
 - Click on the algorithm you want to visualize
 - Adjust speed and size of the array
